@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Sandy Friedman",
+    "occupation": "CEO of BitCraft Inc.",
+    "description": "Full Stack Developer and Nerdist Polyglot",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Sandy aka Sandman! I am a Full Stack Developer and engineering Leader with two decades of production experience. I have been involved with compaines such as BKFS, Auction.com, Marriott International and amazon lab126. The art of software development is the ability to quickly and accurately decipher and leverage technologies that rapidly transform business requirements into functional software. Simplicity is the key to extensibility and complexity is it’s antithesis. When a system is well designed, maintaining and extending its codebase becomes less problematic.    This counters the human tendency to over engineer programs with scope creep. Defining well organized object models, solving cross cutting concerns, and clearly defining service layers make system development a breeze and enable the continuous delivery of code. In my experience, the best engineers understand work/life harmony. Personally, I find balance by spending time outdoors, playing musical instruments, and keeping my tropical landscape lush. I have a wife, 2 daughters, a black lab, and a cat.",
+    "contactmessage": "Get in touch with me to be a part of the Sandman fam!",
+    "email": "sandyrfiedman@gmail.com",
+    "phone": "949.292.3136",
+    "address": {
+      "street": "15 las Castenetas",
+      "city": "Rancho Santa Margarita",
+      "state": "California",
+      "zip": "92688"
+    },
+    "website": "https://www.bitcraftnow.com/bio",
+    "resumedownload": "https://docs.google.com/document/d/1fsUm29ePzdZEGrHJVPbo2jzP8BrnwofeU2JOWaOn9-4/edit?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sandy.friedman96",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sandyfriedman",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sfriedman/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/grimpmaster",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "College of the Redwoods",
+        "degree": "Associate's Degree, Computer Science",
+        "graduated": "July 1996",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Bitcraft",
+        "title": "Founder and CEO",
+        "years": "April 2019 - Present",
+        "description": "GSA Solutions provider"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "100%"
+      },
+      {
+        "name": "Spring",
+        "level": "100%"
+      },
+      {
+        "name": "PostgresSQL",
+        "level": "100%"
+      },
+      {
+        "name": "Kafka",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AirBnB Clone (React JS)",
+        "category": "",
+        "image": "airbnb.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sandy brings a lot of energy and passion to his work. He is fueled by the desire to get things done, and toils diligently till he succeeds. Although Sandy reported to me briefly while he was at Marriott, I could see and sense his desire to be as productive as possible during this time. Sandy has a great personality which adds to his ability on interacting well with other team members, either as a coach or a team mate. I would recommend Sandy highly due to this combination of skills and great personality traits.",
+        "user": "Syed Asad - Marriott International"
+      },
+      {
+        "text": "Sandy is full of energy and runs on high octane. He’s a very passionate and eager architect, willing to learn new things and tackle any new obstacle. He jumped into our team with little background in Salesforce but he asserted himself without fail as the leader of our Heroku development team. He brings with him a full stack background that can be applied in almost any development environment. He truly enjoys sharing his knowledge and will go out of his way to make sure people have what they need to be successful.",
+        "user": "Luke Martell - Director of Engineering PacificLife"
+      },
+      {
+        "text": "I really enjoyed my time working with Sandy on Auction.com. The thing that stands out most to me about Sandy is his persistence and dedication to solving problems: whether it's organizational issues or tough technological problems, Sandy will be the first to step up with possible solutions. Sandy is adept at spotting inefficiencies in process and communication gaps and he actively works to improve these. In addition to being a great technical resource on the team, Sandy also stands out when it comes to his knowledge of the business and domain he is operating within. He would routinely help me prototype new interfaces and systems to help add value to the business, and by doing so, we were able to accomplish an incredible amount on the Auction.com platform. I am eager to find opportunities to work with Sandy again.",
+        "user": "Nathan Broslawsky - VP of Engineering for Growth and Consumer Experience at Freedom Financial Network"
+      }
+    ]
+  }
+}
